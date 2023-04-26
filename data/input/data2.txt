@@ -1,0 +1,1 @@
+这是data\input\data2.txt中的文件内容
